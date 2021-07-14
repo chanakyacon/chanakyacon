@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chanakyacon
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Angular10
-- 📫 Eeach me on chanakya@conceptive.co.in
+- 📫 Reach me on chanakya@conceptive.co.in
