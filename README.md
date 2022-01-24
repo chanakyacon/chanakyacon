@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chanakyacon
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular10
+- 👀 I’m interested in frontend development.
+- 🌱 I’m currently working on Angular 12, React and ReactNative.
 - 📫 Reach me on chanakya@conceptive.co.in
